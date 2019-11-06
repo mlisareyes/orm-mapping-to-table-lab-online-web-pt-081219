@@ -28,6 +28,7 @@ class Student
   end
 
   def self.save
+    
   end
 
 end
